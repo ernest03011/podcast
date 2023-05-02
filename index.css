@@ -207,6 +207,12 @@ header{
   grid-area: image;
 }
 
+.card-image{
+
+    /* filter: blur(2px) saturate(50%); */
+    border-radius: var(--br);
+}
+
 .menu__content-title{
   grid-area: title;
   margin-bottom: var(--spacer);
