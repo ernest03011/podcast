@@ -109,16 +109,14 @@ h1, h2, h3{
 
 button{
 
-  --spacer: 0.8rem;
-
   background-color: var(--secondary-clr);
   color: #fff;
 
   font-weight: var(--fw-m);
   border-radius: var(--br); 
 
-  padding-inline: var(--spacer);
-  margin: var(--spacer);
+  padding: 0.3rem 0.5rem;
+
 }
 
 .filter-button:hover, .filter-button:focus{
@@ -165,13 +163,19 @@ header{
 .container__btns{
 
   grid-area: btn-container;
-  margin-bottom: var(--spacer-md);
-  flex-wrap: wrap;
+
+  font-size: 14px;
+  margin-block: var(--spacer-md);
+
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 8rem);
+  justify-content: center;
+  gap: var(--spacer);
 }
 
 /* MENU */
 .menu{
-  transition: var(--transition);
+  transition: 10px;
 }
 
 .menu__content{
