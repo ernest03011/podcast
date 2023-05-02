@@ -259,7 +259,7 @@ footer{
 @media (min-width: 40em) {
 
   .menu__content{
-      
+
     grid-template-areas: 
     
     "image title"
@@ -305,6 +305,13 @@ footer{
       grid-template-columns: repeat(auto-fit, 30rem);
       justify-content: center;
       gap: var(--spacer-lg);
+      padding-top: var(--spacer);
+ 
+  }
+
+  .menu__content{
+
+    margin-bottom: 0;
   }
 }
 
