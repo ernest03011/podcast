@@ -259,7 +259,7 @@ footer{
 @media (min-width: 40em) {
 
   .menu__content{
-  
+      
     grid-template-areas: 
     
     "image title"
@@ -267,7 +267,6 @@ footer{
     "image description"
     ;
 
-    margin-bottom: 0;
   }
   
   .menu__content-image{
