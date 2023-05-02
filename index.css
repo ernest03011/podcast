@@ -262,17 +262,18 @@ footer{
 
     grid-template-areas: 
     
-    "image title"
-    "image description"
-    "image description"
+    "image title" 
+    "image description" 
+    "image description" 
     ;
-
+   
   }
   
   .menu__content-image{
     grid-area: image;
 
-    justify-content: flex-end;
+    justify-content: flex-start;
+
   }
   
   
