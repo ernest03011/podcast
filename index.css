@@ -127,6 +127,11 @@ button{
   transition: var(--transition);
 }
 
+.filter-button:hover{
+  /* Avoiding that two buttons next to each other collape  */
+  transform: scale(1);
+}
+
 dl{
   font-weight: var(--fw-m);
 }
