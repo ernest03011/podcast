@@ -156,12 +156,12 @@ const getPodcast = (podcasts) => {
     <div class="menu__content-description flex">
 
       <dl >
-        <dt>Nombre: ${podcast.name}</dt>
-        <dt>Categoria: ${podcast.category}</dt>
-        <dt>Host: ${podcast.host}</dt>
-        <dt>Descripcion: ${podcast.description}</dt>
-        <dt>Idioma: ${podcast.language}</dt>
-        <dt class="menu__content-icons">Plataforma:
+        <dt><span class="highlighted-text">Nombre</span>: ${podcast.name}</dt>
+        <dt><span class="highlighted-text">Categoria</span>: ${podcast.category}</dt>
+        <dt><span class="highlighted-text">Host</span>: ${podcast.host}</dt>
+        <dt><span class="highlighted-text">Descripcion</span>: ${podcast.description}</dt>
+        <dt><span class="highlighted-text">Idioma</span>: ${podcast.language}</dt>
+        <dt class="menu__content-icons"><span class="highlighted-text">Plataforma</span>:
 
           <svg 
             role="img" viewBox="0 0 26 24" aria-label="Spotify" height="32" preserveAspectRatio="xMidYMid meet" focusable="false" class="icons-platform" data-id="spotify">
