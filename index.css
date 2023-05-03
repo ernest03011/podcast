@@ -185,6 +185,10 @@ header{
 }
 
 .menu__content{
+
+  max-width: 38rem;
+  padding: var(--spacer);
+
   display: grid;
 
   grid-template-areas: 
@@ -258,6 +262,11 @@ footer{
 
 @media (min-width: 40em) {
 
+  /* Testing purpose */
+  /* .header__title{
+    
+    background-color: red;
+  } */
   .menu__content{
 
     grid-template-areas: 
@@ -266,7 +275,7 @@ footer{
     "image description" 
     "image description" 
     ;
-   
+
   }
   
   .menu__content-image{
@@ -299,6 +308,11 @@ footer{
 }
 
 @media (min-width: 60em){
+
+  /* Testing purpose */
+  /* .header__title{
+    background-color: green;
+  } */
 
   .menu{
 
