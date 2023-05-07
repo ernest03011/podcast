@@ -1,144 +1,11 @@
-// Testing data
-
-const data = [
-  {
-    name: "The Power of Now",
-    category: "Self-Help",
-    language: "English",
-    host: "Eckhart Tolle",
-    description: "A guide to spiritual enlightenment",
-    isLocal: true,
-    platform: {
-      spotify: "https://open.spotify.com/show/5tANnwwtEUgtCxiFCvI0ow",
-      youtube: "https://www.youtube.com/watch?v=QSsWn9AMbgk",
-      itunes:
-        "https://podcasts.apple.com/us/podcast/the-power-of-now-a-guide-to-spiritual-enlightenment/id1369812815",
-    },
-  },
-  {
-    name: "La Casa de Papel",
-    category: "TV Show",
-    language: "Spanish",
-    host: "Álex Pina",
-    description:
-      "A group of robbers attempt to execute the most perfect robbery in Spanish history",
-    isLocal: true,
-    platform: {
-      spotify: "https://open.spotify.com/show/4IUztB2q3ZwfzvSCd2S8bh",
-      youtube: "https://www.youtube.com/watch?v=To_kVMMu-Ls",
-      itunes:
-        "https://podcasts.apple.com/us/podcast/la-casa-de-papel-podcast/id1479721871",
-    },
-  },
-  {
-    name: "Serial",
-    category: "True Crime",
-    language: "English",
-    host: "Sarah Koenig",
-    description: "A nonfiction investigation into a murder case in Baltimore",
-    isLocal: false,
-    platform: {
-      spotify: "https://open.spotify.com/show/7Fj5wCx1zIvGAjiD8n0B5X",
-      youtube: "https://www.youtube.com/watch?v=lfQ2HEupd1w",
-      itunes: "https://podcasts.apple.com/us/podcast/serial/id917918570",
-    },
-  },
-  {
-    name: "The Power of Now",
-    category: "Self-Help",
-    language: "English",
-    host: "Eckhart Tolle",
-    description: "A guide to spiritual enlightenment",
-    isLocal: true,
-    platform: {
-      spotify: "https://open.spotify.com/show/5tANnwwtEUgtCxiFCvI0ow",
-      youtube: "https://www.youtube.com/watch?v=QSsWn9AMbgk",
-      itunes:
-        "https://podcasts.apple.com/us/podcast/the-power-of-now-a-guide-to-spiritual-enlightenment/id1369812815",
-    },
-  },
-  {
-    name: "La Casa de Papel",
-    category: "TV Show",
-    language: "Spanish",
-    host: "Álex Pina",
-    description:
-      "A group of robbers attempt to execute the most perfect robbery in Spanish history",
-    isLocal: false,
-    platform: {
-      spotify: "https://open.spotify.com/show/4IUztB2q3ZwfzvSCd2S8bh",
-      youtube: "https://www.youtube.com/watch?v=To_kVMMu-Ls",
-      itunes:
-        "https://podcasts.apple.com/us/podcast/la-casa-de-papel-podcast/id1479721871",
-    },
-  },
-  {
-    name: "Serial",
-    category: "True Crime",
-    language: "English",
-    host: "Sarah Koenig",
-    description: "A nonfiction investigation into a murder case in Baltimore",
-    isLocal: false,
-    platform: {
-      spotify: "https://open.spotify.com/show/7Fj5wCx1zIvGAjiD8n0B5X",
-      youtube: "https://www.youtube.com/watch?v=lfQ2HEupd1w",
-      itunes: "https://podcasts.apple.com/us/podcast/serial/id917918570",
-    },
-  },
-  {
-    name: "Just Kidding",
-    category: "Health",
-    language: "Spanish",
-    host: "Kidding",
-    description: "This is a test, you know what I mean. ",
-    isLocal: true,
-    platform: {
-      spotify: "https://open.spotify.com/show/5tANnwwtEUgtCxiFCvI0ow",
-      youtube: "https://www.youtube.com/watch?v=QSsWn9AMbgk",
-      itunes:
-        "https://podcasts.apple.com/us/podcast/the-power-of-now-a-guide-to-spiritual-enlightenment/id1369812815",
-    },
-  },
-  {
-    name: "Just Kidding x2",
-    category: "Random",
-    language: "Spanish",
-    host: "Kidding",
-    description: "This is a test, you know what I mean. ",
-    isLocal: false,
-    platform: {
-      spotify: "https://open.spotify.com/show/5tANnwwtEUgtCxiFCvI0ow",
-      youtube: "https://www.youtube.com/watch?v=QSsWn9AMbgk",
-      itunes:
-        "https://podcasts.apple.com/us/podcast/the-power-of-now-a-guide-to-spiritual-enlightenment/id1369812815",
-    },
-  },
-  {
-    name: "Just Kidding x3",
-    category: "Ted Talk",
-    language: "Spanish",
-    host: "Kidding",
-    description: "This is a test, you know what I mean. ",
-    isLocal: false,
-    platform: {
-      spotify: "https://open.spotify.com/show/5tANnwwtEUgtCxiFCvI0ow",
-      youtube: "https://www.youtube.com/watch?v=QSsWn9AMbgk",
-      itunes:
-        "https://podcasts.apple.com/us/podcast/the-power-of-now-a-guide-to-spiritual-enlightenment/id1369812815",
-    },
-  },
-];
-
-// ******* SETUP *********
-
-// ******* SELECT ITEMS *******
+// ***************************** SELECT ITEMS *****************************************
 
 const containerBtns = document.querySelector(".container__btns");
 const menu = document.getElementById("menu");
 
-// ******* EVENT LISTENERS *********
+// ***************************** EVENT LISTENERS *************************************
 
-// ******* FUNCTIONS *********
+// ***************************** FUNCTIONS ********************************************
 
 const getPodcast = (podcasts) => {
   podcasts.forEach((podcast) => {
@@ -217,7 +84,7 @@ const getPodcast = (podcasts) => {
 
 // Show buttons based on categories
 
-const showButtons = () => {
+const showButtons = (data) => {
   const categories = getCategoryBtns(data);
   const allCategoriesBtns = categories
     .map((category) => {
@@ -234,8 +101,6 @@ const showButtons = () => {
 
 const handleClickCategory = (categories) => {
   const allPodcasts = data;
-
-  console.log("it works");
 
   categories.forEach((category) => {
     category.addEventListener("click", () => {
@@ -273,11 +138,12 @@ const getCategoryBtns = (podcasts) => {
 
   return allButtons;
 };
-// ******* EXECUTION *********
+// ***************************** EXECUTION *************************************************
 
-window.addEventListener("DOMContentLoaded", () => {
-  console.log("The page has loaded");
+window.addEventListener("DOMContentLoaded", async () => {
+  const response = await fetch("podcasts.json");
+  const dataFromJsonFile = await response.json();
 
-  getPodcast(data);
-  showButtons();
+  getPodcast(dataFromJsonFile);
+  showButtons(dataFromJsonFile);
 });
