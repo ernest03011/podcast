@@ -96,10 +96,10 @@ const showButtons = (data) => {
 
   const AllCategoryButtons = containerBtns.querySelectorAll("[data-id]");
 
-  handleClickCategory(AllCategoryButtons);
+  handleClickCategory(AllCategoryButtons, data);
 };
 
-const handleClickCategory = (categories) => {
+const handleClickCategory = (categories, data) => {
   const allPodcasts = data;
 
   categories.forEach((category) => {
