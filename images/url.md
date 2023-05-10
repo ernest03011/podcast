@@ -1,0 +1,10 @@
+- A sigun con Carlos Sanchez - https://i.scdn.co/image/ab67656300005f1fc2a6bcee2cc5cbf6c79c6385
+- Hablemos de dinero - https://i.scdn.co/image/ab6765630000ba8acb765fa2d40a3f54edbe3784
+- Mas alla del Rosa - https://i.scdn.co/image/ab6765630000ba8a37b4e1252db15b6b925cd275
+- Listening Time - https://i.scdn.co/image/ab6765630000ba8a40d9be236fc1c7032c6bd989
+- Se regalan dudas - https://i.scdn.co/image/ab6765630000ba8aed966ab561a279d9cc056dac
+- 99% con Mia Astral - https://i.scdn.co/image/ab6765630000ba8a878bf460f1ee3f4d9319b496
+- Richard Vaughan - https://i.scdn.co/image/5fa5e914cae1fcddab6bee4749600642bc6831f6
+- Despertando podcast - https://i.scdn.co/image/ab67656300005f1f2225394aa84ac4f0db4f6425
+- The Wild Project - https://i.scdn.co/image/ab67656300005f1fc02ab919572e43a5911314ac
+- Alofoke Radio Show - https://i.scdn.co/image/ab67656300005f1f423b3123f90ad8232b743935
