@@ -1,7 +1,7 @@
 [
   {
     "name": "A Sigún con Carlos Sanchez",
-    "category": "Sociedad y Cultura",
+    "category": ["Sociedad", "Cultura"],
     "language": "Español",
     "host": "Carlos Sanchez",
     "description": "Carlos se sienta a hablar con personas, ya sea para satisfacer su curiosidad, o para mejor aún, divertirse. Todo el mundo tiene un punto de vista, por lo tanto de todo el mundo se puede decir 'A Sigún fulano de tal'. Ah, y siempre están tomando algo, aunque sea agua, pero se toma.",
@@ -15,7 +15,7 @@
   },
   {
     "name": "Money Talks: Hablemos de dinero",
-    "category": "Finanzas",
+    "category": ["Finanzas"],
     "language": "Español",
     "host": "Felix Rosa",
     "description":
@@ -30,7 +30,7 @@
   },
   {
     "name": "Más Allá del Rosa",
-    "category": "Sociedad y Cultura",
+    "category": ["Sociedad", "Cultura"],
     "language": "Español",
     "host": "Jessica Fernández García",
     "description": "Buscamos el empoderamiento femenino platicando sobre todo tipo temas importantes y necesarios de la mujer en la actualidad.",
@@ -43,7 +43,7 @@
   },
   {
     "name": "Listening Time",
-    "category": "Educacional",
+    "category": ["Educacional"],
     "language": "English",
     "host": "Conner Pe",
     "description": "Este podcast es para estudiantes de inglés que quieren practicar su comprensión auditiva de forma natural. En cada episodio, un orador estadounidense habla sobre diferentes temas sin leer un guión.",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Se Regalan Dudas",
-    "category": "Sociedad y Cultura",
+    "category": ["Sociedad", "Cultura"],
     "language": "Español",
     "host": "Lety & Ash",
     "description":
@@ -72,7 +72,7 @@
   },
   {
     "name": "99% con Mia Astral",
-    "category": "Self-help",
+    "category": ["Self-help"],
     "language": "Español",
     "host": "María Pineda",
     "description": "Día a día te compartiré mis reflexiones más personales para que demos un salto de consciencia, dejemos atrás los viejos condicionamientos, conectemos con nuestro gran poder personal y miremos de cerca el origen de lo que vemos manifestado.",
@@ -85,7 +85,7 @@
   },
   {
     "name": "Richard Vaughan Live",
-    "category": "Educacional",
+    "category": ["Educacional"],
     "language": "English",
     "host": "Richard Vaughan",
     "description": "Bienvenidos a Vaughan en vivo... una clase magistral de Inglés donde observaremos el lenguaje, lo diseccionamos… como usarlo, mejorarlo... donde disfrutaremos de forma diferente y única, de un programa para gente como usted...",
@@ -99,7 +99,7 @@
   },
   {
     "name": "Despertando Podcast",
-    "category": "Sociedad y Cultura",
+    "category": ["Sociedad", "Cultura"],
     "language": "Español",
     "host": "Kidding",
     "description": "Te acompaña todas tus mañanas para ponerle una intención a tu día, para conectar con tu cuerpo, mente y corazón y empezar tu día presente y consciente.",
@@ -113,7 +113,7 @@
   },
   {
     "name": "The Wild Project",
-    "category": "Sociedad y Cultura",
+    "category": ["Sociedad", "Cultura"],
     "language": "Español",
     "host": "Jordi Wild",
     "description": "Actualidad, deportes, charlas con los invitados más interesantes, ciencia, anécdotas y curiosidades, debates, filosofía, psicología, misterio, terror... y muchísimo más.",
@@ -127,7 +127,7 @@
   },
   {
     "name": "Alofoke Radio Show",
-    "category": "Entretenimiento",
+    "category": ["Entretenimiento"],
     "language": "Español",
     "host": "Santiago Matias",
     "description": "Bienvenido a 'Alofoke radio show' Donde Podrás Disfrutar Entrevistas Exclusivas De Artistas Como Bad Bunny, Ozuna, El Alfa, Hablamos De Música, Analizamos y Debatimos También Interés General.",
@@ -141,7 +141,7 @@
   },
   {
     "name": "La Mesa",
-    "category": "Entretenimiento",
+    "category": ["Entretenimiento"],
     "language": "Español",
     "host": "Ducktape",
     "description": "Un espacio para conversar con mentes inquietas y curiosas.",
@@ -155,7 +155,7 @@
   },
   {
     "name": "Pesos Pesados",
-    "category": "Economia y Finanzas",
+    "category": ["Economia", "Negocios"],
     "language": "Español",
     "host": "Pesos Pesados",
     "description": "Temas de Peso - Gente de Peso - Negocios con Peso",
@@ -169,7 +169,7 @@
   },
   {
     "name": "Finding Mastery",
-    "category": "Educacional",
+    "category": ["Educacional"],
     "language": "Ingles",
     "host": "Dr. Michael Gervais",
     "description": "Sumérjase en las mentes de los mejores atletas, líderes, pensadores y emprendedores del mundo con el Dr. Michael Gervais, un psicólogo de alto rendimiento y experto de renombre mundial en la relación entre el alto rendimiento y la mente.",
@@ -183,7 +183,7 @@
   },
   {
     "name": "The Diary of a CEO",
-    "category": "Negocios",
+    "category": ["Negocios"],
     "language": "Ingles",
     "host": "Steven Bartlett",
     "description": "Un podcast con la simple misión de desfilar el éxito y brindarte el conocimiento que necesitas para crear la vida que deseas.",
@@ -197,7 +197,7 @@
   },
   {
     "name": "On Purpose with Jay Shetty",
-    "category": "Salud",
+    "category": ["Salud", "Self-help"],
     "language": "Ingles",
     "host": "Jay Shetty",
     "description": "Mi nombre es Jay Shetty y mi propósito es hacer que la sabiduría se vuelva viral. Tengo la suerte de tener conversaciones fascinantes con las personas más perspicaces del mundo y, en mi podcast, comparto esas conversaciones contigo.",
@@ -211,7 +211,7 @@
   },
   {
     "name": "Huberman Lab",
-    "category": "Ciencia y Salud",
+    "category": ["Ciencia", "Salud"],
     "language": "Ingles",
     "host": "Andrew Huberman",
     "description": "Huberman Lab analiza la neurociencia: cómo nuestro cerebro y sus conexiones con los órganos de nuestro cuerpo controlan nuestras percepciones, nuestros comportamientos y nuestra salud. También discutimos las herramientas existentes y emergentes para medir y cambiar el funcionamiento de nuestro sistema nervioso.",

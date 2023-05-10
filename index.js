@@ -104,16 +104,13 @@ const handleClickCategory = (categories, data) => {
 
   categories.forEach((category) => {
     category.addEventListener("click", () => {
-      console.log("This is also working");
-      console.log(category.textContent);
-
-      const filteredPodcasts = allPodcasts.filter(
-        (podcast) => category.textContent === podcast.category
+      const filteredPodcasts = allPodcasts.filter((podcast) =>
+        podcast.category.includes(category.textContent)
       );
 
       if (filteredPodcasts && category.textContent !== "Todos") {
         menu.innerHTML = "";
-        console.log(filteredPodcasts);
+        // console.log(filteredPodcasts);
         getPodcast(filteredPodcasts);
       } else {
         menu.innerHTML = "";
@@ -127,9 +124,11 @@ const handleClickCategory = (categories, data) => {
 const getCategoryBtns = (podcasts) => {
   const allButtons = podcasts.reduce(
     (allCategories, currentPodcast) => {
-      if (!allCategories.includes(currentPodcast.category)) {
-        allCategories.push(currentPodcast.category);
-      }
+      currentPodcast.category.forEach((categoryFromArray) => {
+        if (!allCategories.includes(categoryFromArray)) {
+          allCategories.push(categoryFromArray);
+        }
+      });
 
       return allCategories;
     },
