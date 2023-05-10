@@ -1,128 +1,226 @@
 [
   {
-    "name": "The Power of Now",
-    "category": "Self-Help",
-    "language": "English",
-    "host": "Eckhart Tolle",
-    "description": "A guide to spiritual enlightenment",
+    "name": "A Sigún con Carlos Sanchez",
+    "category": "Sociedad y Cultura",
+    "language": "Español",
+    "host": "Carlos Sanchez",
+    "description": "Carlos se sienta a hablar con personas, ya sea para satisfacer su curiosidad, o para mejor aún, divertirse. Todo el mundo tiene un punto de vista, por lo tanto de todo el mundo se puede decir 'A Sigún fulano de tal'. Ah, y siempre están tomando algo, aunque sea agua, pero se toma.",
     "isLocal": true,
     "platform": {
-      "spotify": "https://open.spotify.com/show/5tANnwwtEUgtCxiFCvI0ow",
-      "youtube": "https://www.youtube.com/watch?v=QSsWn9AMbgk",
+      "spotify": "https://open.spotify.com/show/3DpmN2Uduv9BmwbT6bwb4K?si=e957e90ca931439a",
+      "youtube": "https://www.youtube.com/@CarlosComic/podcasts",
       "itunes":
-        "https://podcasts.apple.com/us/podcast/the-power-of-now-a-guide-to-spiritual-enlightenment/id1369812815"
+        "https://podcasts.apple.com/do/podcast/a-sig%C3%BAn-con-carlos-s%C3%A1nchez/id1574125430"
     }
   },
   {
-    "name": "La Casa de Papel",
-    "category": "TV Show",
-    "language": "Spanish",
-    "host": "Álex Pina",
+    "name": "Money Talks: Hablemos de dinero",
+    "category": "Finanzas",
+    "language": "Español",
+    "host": "Felix Rosa",
     "description":
-      "A group of robbers attempt to execute the most perfect robbery in Spanish history",
+      "Bienvenidos a Money Talks, un podcast Dominicano con el asesor financiero Felix Rosa @themoneycoachrd y su esposa Patricia Peña @patriciaapena un espacio para hablar sobre dinero sin tabúes, educarnos sin aburrirnos y abrirnos a vivir una vida rica de verdad.",
     "isLocal": true,
     "platform": {
-      "spotify": "https://open.spotify.com/show/4IUztB2q3ZwfzvSCd2S8bh",
-      "youtube": "https://www.youtube.com/watch?v=To_kVMMu-Ls",
+      "spotify": "https://open.spotify.com/show/4LMvUtl5ji9p1gT5x8PMCV?si=712c6d8edc574068",
+      "youtube": "https://www.youtube.com/@TheMoneyCoachRD/podcasts",
       "itunes":
-        "https://podcasts.apple.com/us/podcast/la-casa-de-papel-podcast/id1479721871"
+        "https://www.apple.com/la/apple-podcasts/"
     }
   },
   {
-    "name": "Serial",
-    "category": "True Crime",
-    "language": "English",
-    "host": "Sarah Koenig",
-    "description": "A nonfiction investigation into a murder case in Baltimore",
+    "name": "Más Allá del Rosa",
+    "category": "Sociedad y Cultura",
+    "language": "Español",
+    "host": "Jessica Fernández García",
+    "description": "Buscamos el empoderamiento femenino platicando sobre todo tipo temas importantes y necesarios de la mujer en la actualidad.",
     "isLocal": false,
     "platform": {
-      "spotify": "https://open.spotify.com/show/7Fj5wCx1zIvGAjiD8n0B5X",
-      "youtube": "https://www.youtube.com/watch?v=lfQ2HEupd1w",
-      "itunes": "https://podcasts.apple.com/us/podcast/serial/id917918570"
+      "spotify": "https://open.spotify.com/show/6xKpLdvm45jVLp7gD9O3DY?si=8b0fc8326b8b4dde",
+      "youtube": "https://www.youtube.com/@jessicafernandezgarcia/videos",
+      "itunes": "https://podcasts.apple.com/us/podcast/m%C3%A1s-all%C3%A1-del-rosa/id1531128734"
     }
   },
   {
-    "name": "The Power of Now",
-    "category": "Self-Help",
+    "name": "Listening Time",
+    "category": "Educacional",
     "language": "English",
-    "host": "Eckhart Tolle",
-    "description": "A guide to spiritual enlightenment",
+    "host": "Conner Pe",
+    "description": "Este podcast es para estudiantes de inglés que quieren practicar su comprensión auditiva de forma natural. En cada episodio, un orador estadounidense habla sobre diferentes temas sin leer un guión.",
     "isLocal": true,
     "platform": {
-      "spotify": "https://open.spotify.com/show/5tANnwwtEUgtCxiFCvI0ow",
-      "youtube": "https://www.youtube.com/watch?v=QSsWn9AMbgk",
+      "spotify": "https://open.spotify.com/show/3GRJb6bwpKEbOOG7QFjRqS?si=624b784bd2634791",
+      "youtube": "https://www.youtube.com/@listeningtimepodcast/videos",
       "itunes":
-        "https://podcasts.apple.com/us/podcast/the-power-of-now-a-guide-to-spiritual-enlightenment/id1369812815"
+        "https://podcasts.apple.com/us/podcast/listening-time/id1556878879"
     }
   },
   {
-    "name": "La Casa de Papel",
-    "category": "TV Show",
-    "language": "Spanish",
-    "host": "Álex Pina",
+    "name": "Se Regalan Dudas",
+    "category": "Sociedad y Cultura",
+    "language": "Español",
+    "host": "Lety & Ash",
     "description":
-      "A group of robbers attempt to execute the most perfect robbery in Spanish history",
+      "Un ecosistema de herramientas para cuestionar todo lo que está a tu alrededor, tomar decisiones más informadas y acompañarte en este camino sin fin llamado amor propio.",
     "isLocal": false,
     "platform": {
-      "spotify": "https://open.spotify.com/show/4IUztB2q3ZwfzvSCd2S8bh",
-      "youtube": "https://www.youtube.com/watch?v=To_kVMMu-Ls",
+      "spotify": "https://open.spotify.com/show/0KUjSzqMyxrTyXuw15j4e8?si=5dd237bacd414bf8",
+      "youtube": "https://www.youtube.com/@seregalandudas/videos",
       "itunes":
-        "https://podcasts.apple.com/us/podcast/la-casa-de-papel-podcast/id1479721871"
+        "https://podcasts.apple.com/us/podcast/se-regalan-dudas/id1416903369"
     }
   },
   {
-    "name": "Serial",
-    "category": "True Crime",
-    "language": "English",
-    "host": "Sarah Koenig",
-    "description": "A nonfiction investigation into a murder case in Baltimore",
+    "name": "99% con Mia Astral",
+    "category": "Self-help",
+    "language": "Español",
+    "host": "María Pineda",
+    "description": "Día a día te compartiré mis reflexiones más personales para que demos un salto de consciencia, dejemos atrás los viejos condicionamientos, conectemos con nuestro gran poder personal y miremos de cerca el origen de lo que vemos manifestado.",
     "isLocal": false,
     "platform": {
-      "spotify": "https://open.spotify.com/show/7Fj5wCx1zIvGAjiD8n0B5X",
-      "youtube": "https://www.youtube.com/watch?v=lfQ2HEupd1w",
-      "itunes": "https://podcasts.apple.com/us/podcast/serial/id917918570"
+      "spotify": "https://open.spotify.com/show/0GVJyDRKBIoftEssGbKxkV?si=cf2ed286089b45bc",
+      "youtube": "https://www.youtube.com/@miastralservicios/about",
+      "itunes": "https://www.apple.com/la/apple-podcasts/"
     }
   },
   {
-    "name": "Just Kidding",
-    "category": "Health",
-    "language": "Spanish",
-    "host": "Kidding",
-    "description": "This is a test, you know what I mean. ",
+    "name": "Richard Vaughan Live",
+    "category": "Educacional",
+    "language": "English",
+    "host": "Richard Vaughan",
+    "description": "Bienvenidos a Vaughan en vivo... una clase magistral de Inglés donde observaremos el lenguaje, lo diseccionamos… como usarlo, mejorarlo... donde disfrutaremos de forma diferente y única, de un programa para gente como usted...",
     "isLocal": true,
     "platform": {
-      "spotify": "https://open.spotify.com/show/5tANnwwtEUgtCxiFCvI0ow",
-      "youtube": "https://www.youtube.com/watch?v=QSsWn9AMbgk",
+      "spotify": "https://open.spotify.com/show/2z4bBitPOTdfcvje7GMSRK?si=0065400dbda14cc9",
+      "youtube": "https://www.youtube.com/@vaughan-cursosdeingles4044/videos",
       "itunes":
-        "https://podcasts.apple.com/us/podcast/the-power-of-now-a-guide-to-spiritual-enlightenment/id1369812815"
+        "https://podcasts.apple.com/us/podcast/richard-vaughan-live/id1211158516"
     }
   },
   {
-    "name": "Just Kidding x2",
-    "category": "Random",
-    "language": "Spanish",
+    "name": "Despertando Podcast",
+    "category": "Sociedad y Cultura",
+    "language": "Español",
     "host": "Kidding",
-    "description": "This is a test, you know what I mean. ",
+    "description": "Te acompaña todas tus mañanas para ponerle una intención a tu día, para conectar con tu cuerpo, mente y corazón y empezar tu día presente y consciente.",
     "isLocal": false,
     "platform": {
-      "spotify": "https://open.spotify.com/show/5tANnwwtEUgtCxiFCvI0ow",
-      "youtube": "https://www.youtube.com/watch?v=QSsWn9AMbgk",
+      "spotify": "https://open.spotify.com/show/2nAf8IDQG1sPEwAKdG2DyM?si=2ebaeb826074491e",
+      "youtube": "https://www.youtube.com/@despertandodurmiendo/podcasts",
       "itunes":
-        "https://podcasts.apple.com/us/podcast/the-power-of-now-a-guide-to-spiritual-enlightenment/id1369812815"
+        "https://podcasts.apple.com/do/podcast/despertando-podcast/id1504753252"
     }
   },
   {
-    "name": "Just Kidding x3",
-    "category": "Ted Talk",
-    "language": "Spanish",
-    "host": "Kidding",
-    "description": "This is a test, you know what I mean. ",
+    "name": "The Wild Project",
+    "category": "Sociedad y Cultura",
+    "language": "Español",
+    "host": "Jordi Wild",
+    "description": "Actualidad, deportes, charlas con los invitados más interesantes, ciencia, anécdotas y curiosidades, debates, filosofía, psicología, misterio, terror... y muchísimo más.",
     "isLocal": false,
     "platform": {
-      "spotify": "https://open.spotify.com/show/5tANnwwtEUgtCxiFCvI0ow",
-      "youtube": "https://www.youtube.com/watch?v=QSsWn9AMbgk",
+      "spotify": "https://open.spotify.com/show/5iKz9gAsyuQ1xLG6MFLtQg?si=f503963cf2ba4ae7",
+      "youtube": "https://www.youtube.com/@TheWildProject/videos",
       "itunes":
-        "https://podcasts.apple.com/us/podcast/the-power-of-now-a-guide-to-spiritual-enlightenment/id1369812815"
+        "https://podcasts.apple.com/us/podcast/the-wild-project/id1501968107"
+    }
+  },
+  {
+    "name": "Alofoke Radio Show",
+    "category": "Entretenimiento",
+    "language": "Español",
+    "host": "Santiago Matias",
+    "description": "Bienvenido a 'Alofoke radio show' Donde Podrás Disfrutar Entrevistas Exclusivas De Artistas Como Bad Bunny, Ozuna, El Alfa, Hablamos De Música, Analizamos y Debatimos También Interés General.",
+    "isLocal": true,
+    "platform": {
+      "spotify": "https://open.spotify.com/show/0cBqp0EyJfwjJfQ3i66lnB?si=1948105a2e754ec6",
+      "youtube": "https://www.youtube.com/@Alofokeradioshow/videos",
+      "itunes":
+        "https://www.apple.com/la/apple-podcasts/"
+    }
+  },
+  {
+    "name": "La Mesa",
+    "category": "Entretenimiento",
+    "language": "Español",
+    "host": "Ducktape",
+    "description": "Un espacio para conversar con mentes inquietas y curiosas.",
+    "isLocal": true,
+    "platform": {
+      "spotify": "https://open.spotify.com/show/4DjdKsD4G1yhBpubP6Enkc?si=8b137131fb494cbf",
+      "youtube": "https://www.youtube.com/@DuckTapetv/podcasts",
+      "itunes":
+        "https://podcasts.apple.com/do/podcast/la-mesa/id1466870958"
+    }
+  },
+  {
+    "name": "Pesos Pesados",
+    "category": "Economia y Finanzas",
+    "language": "Español",
+    "host": "Pesos Pesados",
+    "description": "Temas de Peso - Gente de Peso - Negocios con Peso",
+    "isLocal": true,
+    "platform": {
+      "spotify": "https://open.spotify.com/show/21NmVfURkDfSRBOFs9IqmQ?si=34849e8dad954b38",
+      "youtube": "https://www.youtube.com/@pesospesadosrd/videos",
+      "itunes":
+        "https://podcasts.apple.com/do/podcast/pesos-pesados-un-podcast-de-negocios/id1583481804"
+    }
+  },
+  {
+    "name": "Finding Mastery",
+    "category": "Educacional",
+    "language": "Ingles",
+    "host": "Dr. Michael Gervais",
+    "description": "Sumérjase en las mentes de los mejores atletas, líderes, pensadores y emprendedores del mundo con el Dr. Michael Gervais, un psicólogo de alto rendimiento y experto de renombre mundial en la relación entre el alto rendimiento y la mente.",
+    "isLocal": false,
+    "platform": {
+      "spotify": "https://open.spotify.com/show/3voyfPxclzCKtU7W3LOm7n?si=4a93cc6a99744576",
+      "youtube": "https://www.youtube.com/@FindingMastery/videos",
+      "itunes":
+        "https://podcasts.apple.com/us/podcast/finding-mastery/id1025326955"
+    }
+  },
+  {
+    "name": "The Diary of a CEO",
+    "category": "Negocios",
+    "language": "Ingles",
+    "host": "Steven Bartlett",
+    "description": "Un podcast con la simple misión de desfilar el éxito y brindarte el conocimiento que necesitas para crear la vida que deseas.",
+    "isLocal": false,
+    "platform": {
+      "spotify": "https://open.spotify.com/show/7iQXmUT7XGuZSzAMjoNWlX?si=2be4b651c3414edf",
+      "youtube": "https://www.youtube.com/c/TheDiaryOfACEO",
+      "itunes":
+        "https://podcasts.apple.com/gb/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644"
+    }
+  },
+  {
+    "name": "On Purpose with Jay Shetty",
+    "category": "Salud",
+    "language": "Ingles",
+    "host": "Jay Shetty",
+    "description": "Mi nombre es Jay Shetty y mi propósito es hacer que la sabiduría se vuelva viral. Tengo la suerte de tener conversaciones fascinantes con las personas más perspicaces del mundo y, en mi podcast, comparto esas conversaciones contigo.",
+    "isLocal": false,
+    "platform": {
+      "spotify": "https://open.spotify.com/show/5EqqB52m2bsr4k1Ii7sStc?si=6dd8f2b6b9d64713",
+      "youtube": "https://www.youtube.com/@JayShettyPodcast./videos",
+      "itunes":
+        "https://podcasts.apple.com/us/podcast/on-purpose-with-jay-shetty/id1450994021"
+    }
+  },
+  {
+    "name": "Huberman Lab",
+    "category": "Ciencia y Salud",
+    "language": "Ingles",
+    "host": "Andrew Huberman",
+    "description": "Huberman Lab analiza la neurociencia: cómo nuestro cerebro y sus conexiones con los órganos de nuestro cuerpo controlan nuestras percepciones, nuestros comportamientos y nuestra salud. También discutimos las herramientas existentes y emergentes para medir y cambiar el funcionamiento de nuestro sistema nervioso.",
+    "isLocal": false,
+    "platform": {
+      "spotify": "https://open.spotify.com/show/79CkJF3UJTHFV8Dse3Oy0P?si=7f2592a80651432c",
+      "youtube": "https://www.youtube.com/@hubermanlab/videos",
+      "itunes":
+        "https://podcasts.apple.com/us/podcast/huberman-lab/id1545953110"
     }
   }
 ]
