@@ -15,7 +15,7 @@ const getPodcast = (podcasts) => {
     newPodcast.innerHTML = `
   
     <picture class="menu__content-image flex">
-      <img class="card-image" src="https://picsum.photos/id/96/150" alt="One of the images" srcset="https://picsum.photos/id/96/200">
+      <img class="card-image" src="./images/podcast-640x427.jpg" alt="Podcast">
     </picture>
 
     <h3 class="menu__content-title flex">${podcast.name}</h2>
