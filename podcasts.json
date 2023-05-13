@@ -44,7 +44,7 @@
   {
     "name": "Listening Time",
     "category": ["Educacional"],
-    "language": "English",
+    "language": "Ingles",
     "host": "Conner Pe",
     "description": "Este podcast es para estudiantes de inglés que quieren practicar su comprensión auditiva de forma natural. En cada episodio, un orador estadounidense habla sobre diferentes temas sin leer un guión.",
     "isLocal": true,
@@ -86,7 +86,7 @@
   {
     "name": "Richard Vaughan Live",
     "category": ["Educacional"],
-    "language": "English",
+    "language": "Ingles",
     "host": "Richard Vaughan",
     "description": "Bienvenidos a Vaughan en vivo... una clase magistral de Inglés donde observaremos el lenguaje, lo diseccionamos… como usarlo, mejorarlo... donde disfrutaremos de forma diferente y única, de un programa para gente como usted...",
     "isLocal": true,
